@@ -30,6 +30,9 @@ Buscando Oportunidades de estagio ou JR, QA, FrontEnd, Ou na aréa de Analise e 
 Alguns certificados Certificados no meu Linkedin e Instagram
 
 ### Tecnologias em desenvolvimento.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MsousaC&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MsousaC&layout=compact)](https://github.com/MsousaC/github-readme-stats)
+
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
