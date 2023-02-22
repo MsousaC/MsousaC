@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MsousaC
 - 🌱 Atualmente estou estando Analise e Desenvolvimento de Sistemas 3ºSemestre na faculdade
-- 📫 Abaixo está aglumas rede sociais onde pode me encontra.
+
 
 
 ### Olá meu Nome é Marcio Candido 🛰️
@@ -20,7 +20,7 @@ Trabalhando atualmente na empresa Grupo Binário.
 
 Buscando Oportunidades de estagio ou JR, QA, FrontEnd, Ou na aréa de Analise e desenvolvimento de sistemas !!
 
-
+- 📫 Abaixo está aglumas rede sociais onde pode me encontra.
 
 
 
