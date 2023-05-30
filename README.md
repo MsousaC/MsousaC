@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MsousaC
-- 🌱 Atualmente estou estando Analise e Desenvolvimento de Sistemas 3ºSemestre na faculdade
+- 🌱 Atualmente estou estudando Analise e Desenvolvimento de Sistemas 3ºSemestre na faculdades
 
 
 
@@ -15,19 +15,19 @@ os ensinamentos sempre de muito valor e que estão compartilhados
 aqui na rede.
 
 Estudando Analise e Desenvolvimento de Sistemas 3º Semestre.<br>
-Trabalhando atualmente na empresa Grupo Binário.
+Estava trabalhando na Grupo Binário como assistente de suporte N1
 
 
-Buscando Oportunidades de estagio ou JR, QA, FrontEnd, Ou na aréa de Analise e desenvolvimento de sistemas !!
+Buscando Oportunidades QA, BackEnd, Ou na aréa de Analise e desenvolvimento de sistemas !!
 
 - 📫 Abaixo está aglumas rede sociais onde pode me encontra.
 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-candido-501a0522b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_candidos/) 
+
 <br>
-Alguns certificados Certificados no meu Linkedin e Instagram
+Alguns Certificados no meu Linkedin
 
 ### Tecnologias em desenvolvimento.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MsousaC&theme=dark&show_icons=true)
